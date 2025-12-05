@@ -1,2 +1,1 @@
-josingcjx/db-data4test:5.0
-josingcjx/data4test:5.0
+registry.cn-hangzhou.aliyuncs.com/oldsix/python:3.12
