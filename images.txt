@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/oldsix/python:3.12
+easydarwin/easydarwin
